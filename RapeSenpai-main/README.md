@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/beiweixuedi/EatAbing/RapeSenpai-main/index.html"><img src="https://github.com/beiweixuedi/EatAbing/RapeSenpai-main/static/image/huge.png?raw=true" width="100" height="100" alt="Eatabing"></a>
+  <a href="https://github.com/beiweixuedi/EatAbing"><img src="https://github.com/beiweixuedi/EatAbing/RapeSenpai-main/static/image/huge.png?raw=true" width="100" height="100" alt="Eatabing"></a>
 </p>
 <div align="center">
 
