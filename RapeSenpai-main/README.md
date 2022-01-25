@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://xiaohuang257.github.io/RapeSenpai/index.html"><img src="https://github.com/Xiaohuang257/RapeSenpai/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="RapeSenpai"></a>
+  <a href="https://xiaohuang257.github.io/RapeSenpai/index.html"><img src="https://github.com/beiweixuedi/EatAbing/RapeSenpai-main/static/image/huge.png?raw=true" width="100" height="100" alt="Eatabing"></a>
 </p>
 <div align="center">
 
 # RapeSenpai
-**新概念Home游戏**
+**比培优新方法还新**
 </div>
 
 ## 简介
-小游戏：雷普先辈
+小游戏：跟阿炳学数学
 
 纯恶搞无恶意。
